@@ -1,0 +1,6 @@
+
+{
+  "name": "UserCore",
+  "description": "A high-quality user management application built with React, TypeScript, and Material UI v6. Features centralized state management via Context API + useReducer, full CRUD operations, and responsive design.",
+  "requestFramePermissions": []
+}
