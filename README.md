@@ -13,7 +13,7 @@
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd user-management-dashboard
+   cd usercore
    ```
 
 2. **Install dependencies:**
